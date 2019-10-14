@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+latex -interaction=nonstopmode Notes.tex
+dvipng -D 1000 -T tight Notes.dvi -o display.png
+rm -rf *.dvi
+rm -rf *.aux
+rm -rf *.fdb_latexmk
+rm -rf *.fls
+rm -rf *.log
