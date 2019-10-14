@@ -1,0 +1,101 @@
+﻿Format
+Use bold for topics
+Write compact, meaningful statements that can be copy pasted to our sheet
+
+
+Current collaborators
+Spencer Sharp, Taehyoung Kim, Michael Yu
+Contact Spencer on Canvas if you want to contribute quality questions/clozes
+
+
+Links
+Piazza test info: https://piazza.com/class/jz74iw7oevg152?cid=182
+Piazza “what exam looks like”: https://piazza.com/class/jz74iw7oevg152?cid=180
+Piazza allowable peripherals: https://piazza.com/class/jz74iw7oevg152?cid=189
+Piazza notes collaboration: https://piazza.com/class/jz74iw7oevg152?cid=188
+Class notes repo: https://gitlab.com/gpdowning/cs373/tree/master/notes
+Latex version: https://github.com/SpencerSharp/SWE-Exam-1-Notes-Page
+________________
+
+
+
+
+Study Guide
+
+
+Notes
+Containers
+What is a container?
+Dict Comprehensions
+Generator Comprehensions
+Generators
+Immutables
+Indexables
+Iterables
+Iteration
+Iterators
+List Comprehensions
+Syntax
+List Concatenation
+List Replication
+Mutables
+Default parameters should always be <immutable>
+Lists are <>
+Nested Classes
+Nested Functions
+Recursion
+Str concatenation
+Str replication
+Tuple concatenation
+Tuple replication
+__eq__()
+Compares addresses of two items by default?
+Replaces == (Python ==)
+__getitem__()
+Used for indexing into Python indexables?
+__init__()
+Python’s constructor
+__iter__()
+Returns the iterable for a Python object
+__len__()
+Gets length of a Python object that is iterable?
+Does it work on iterables?
+__next__()
+__str__()
+add()
+assert
+bool
+class
+complex
+def
+deque
+dict
+except
+finally
+float
+floordiv()
+frozenset
+int
+issubclass()
+iter()
+lambda
+list
+mul()
+next()
+pass
+print()
+raise
+range
+reduce()
+self
+set
+sqrt()
+stopiteration
+str
+sub()
+sum()
+truediv()
+try
+tuple
+type
+yield
